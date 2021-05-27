@@ -29,6 +29,10 @@ jobs:
             other_pkgs: g++-7
           - cxx: g++-8
             other_pkgs: g++-8
+          - cxx: g++-9
+            other_pkgs: g++-9
+          - cxx: g++-10
+            other_pkgs: g++-10
           - cxx: clang++-6.0
             other_pkgs: clang-6.0
           - cxx: clang++-7
